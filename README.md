@@ -1,4 +1,4 @@
-# Linux_Config_Backuo
+# Linux_Config_Backup
 Config for Linux (Kali, ubuntu) after installation, cfg
 
 `
