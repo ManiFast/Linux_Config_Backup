@@ -1,3 +1,5 @@
+"PluginInstall
+
 set nocompatible        
 set number                  
 set laststatus=2
