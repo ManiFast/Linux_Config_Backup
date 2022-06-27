@@ -1,4 +1,5 @@
 "PluginInstall
+"vim ~/.vimrc
 
 set nocompatible        
 set number                  
