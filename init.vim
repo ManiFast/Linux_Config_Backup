@@ -1,3 +1,5 @@
+" Locate ~/.config/nvim/init.vim
+
 :set number
 
 :set relativenumber
