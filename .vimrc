@@ -1,6 +1,6 @@
 "vim ~/.vimrc 
 
-"Type "PluginInstall" in command cmd in vim after all
+"Type ":PluginInstall" in command cmd in vim after all
 
 set nocompatible        
 set number                  
